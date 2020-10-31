@@ -36,6 +36,9 @@ export default function Home() {
               <li>Laravel</li>
             </ul>
           </li>
+          <li>Java</li>
+          <li>C#</li>
+          <li>C / C++</li>
           <li>JavaScript</li>
           <li>TypeScript (Beginner)
             <ul>
